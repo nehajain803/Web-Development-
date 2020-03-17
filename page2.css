@@ -1,0 +1,27 @@
+.rr{
+    border-style:double;
+    background-color: blueviolet;
+}
+body{
+    background-position: center;
+    background-size: cover;
+}
+ul{
+    margin-bottom: 20px;
+}
+ul.a{
+    float:right;
+    list-style-type: none;
+}
+ul li{
+    display:inline-block;
+    font-size: 20px;
+}
+ul li a{
+    text-decoration: chocolate;
+    color: cornsilk;
+    padding: 10px;
+}
+h1{
+    margin-top: 20px;
+}
